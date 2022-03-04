@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOConceptsDemo", "OOConceptsDemo.csproj", "{ED27F6A2-E98D-43D2-A771-E3CCCFCFC3FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDE.LanguagesDemo", "..\IDE.LanguagesDemo\IDE.LanguagesDemo.csproj", "{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED27F6A2-E98D-43D2-A771-E3CCCFCFC3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED27F6A2-E98D-43D2-A771-E3CCCFCFC3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED27F6A2-E98D-43D2-A771-E3CCCFCFC3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
