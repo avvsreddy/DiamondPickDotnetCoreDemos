@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOConceptsDemo", "OOConcept
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDE.LanguagesDemo", "..\IDE.LanguagesDemo\IDE.LanguagesDemo.csproj", "{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Demo", "..\DesignPatterns.Demo\DesignPatterns.Demo.csproj", "{143FB5D5-C693-471D-9643-4034E24A3144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "..\WebApplication1\WebApplication1.csproj", "{EFC480FC-A0D2-48A3-90ED-D33F4352F28C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EE50CB4-E635-4D19-9E9D-FD3625694A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143FB5D5-C693-471D-9643-4034E24A3144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143FB5D5-C693-471D-9643-4034E24A3144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143FB5D5-C693-471D-9643-4034E24A3144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143FB5D5-C693-471D-9643-4034E24A3144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC480FC-A0D2-48A3-90ED-D33F4352F28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC480FC-A0D2-48A3-90ED-D33F4352F28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC480FC-A0D2-48A3-90ED-D33F4352F28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC480FC-A0D2-48A3-90ED-D33F4352F28C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
